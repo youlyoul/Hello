@@ -1,0 +1,3 @@
+hi.txt
+[br-start] edit hi.txt
+신입사원 환영식 행사 준비
